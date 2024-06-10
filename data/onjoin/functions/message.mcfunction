@@ -1,4 +1,4 @@
 tellraw @s ["",{"text":"Welcome ","color":"green"},{"selector":"@s","color":"gold"},{"text":"!","color":"green"}]
-tellraw @s ["",{"text":"Discord: ","color":"light_purple"},{"text":"discord.gg/hAmxP8P","color":"dark_aqua","underlined":true,"clickEvent":{"action":"open_url","value":"https://discord.gg/hAmxP8P"}}]
-tellraw @s ["",{"text":"Rules: No cheating!","color":"red"},{"text":" (using hacks will result in a permanent ban)","color":"gray"}]
-tellraw @s ["",{"text":"Type ","color":"green"},{"text":"/trigger tp-help","color":"yellow"},{"text":" for teleport commands","color":"green"}]
+tellraw @s ["",{"text":"Discord: ","color":"light_purple"},{"text":"discord.gg/waXRv5HQWk","color":"dark_aqua","underlined":true,"clickEvent":{"action":"open_url","value":"https://discord.gg/waXRv5HQWk"}}]
+tellraw @s ["",{"text":"Please read the ","color":"green"},{"text":"Server Rules","color":"red"},{"text":" on:","color":"green"},{"text":"\n"},{"text":"The Official Minecraft Server List page","underlined":true,"color":"aqua","clickEvent":{"action":"open_url","value":"https://findmcserver.com/server/RDMcFxqG37"}}]
+tellraw @s ["",{"text":"Commands: ","color":"green"},{"text":"Show coordinates","underlined":true,"color":"yellow","clickEvent":{"action":"run_command","value":"/trigger show_coordinates"}},{"text":", "},{"text":"Teleport","underlined":true,"color":"yellow","clickEvent":{"action":"run_command","value":"/trigger tpa"}}]
